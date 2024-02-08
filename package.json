@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Chidera Ezeoke",
 	"description": "A project that teaches me BackEnd Development and APIs",
+	"keywords": ["Learning", "node.js at", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
+		"package-name": "^major.minor.patch",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
